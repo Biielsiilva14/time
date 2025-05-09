@@ -4,6 +4,7 @@ def calculate_bmi(weight, height):
         return round(bmi, 2)
     except ZeroDivisionError:
         return None
+false        
 
 # Main function to get user input and calculate BMI
 def main():
