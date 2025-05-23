@@ -1,4 +1,4 @@
-# fuction
+# fuction calculate_bmi
 
 def calculate_bmi(weight, height):
     try:
