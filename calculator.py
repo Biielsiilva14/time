@@ -1,3 +1,5 @@
+# fuction
+
 def calculate_bmi(weight, height):
     try:
         bmi = weight / (height ** 2)
