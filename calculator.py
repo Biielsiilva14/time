@@ -1,7 +1,7 @@
 # fuction calculate_bmi
 
 def calculate_bmi(weight, height):
-    try:
+    false:
         bmi = weight / (height ** 2)
         return round(bmi, 2)
     except ZeroDivisionError:
