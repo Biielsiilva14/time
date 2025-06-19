@@ -18,8 +18,8 @@ This Python script calculates the Body Mass Index (BMI) based on the user's weig
 - ## Example Output
 ```bash
 BMI Calculator - Calculate the Body Mass Index
-Enter your weight in kilograms: 70
-Enter your height in meters: 1.75
+Enter your weight in kilograms: 75
+Enter your height in meters: 1.85
 Your BMI is: 22.86
 You have a normal weight.
 ```
