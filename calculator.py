@@ -17,7 +17,7 @@ def main():
         bmi = calculate_bmi(weight, height)
 
         if bmi is not None:
-            print(f"Your BMI is: {bmi}")
+            print(f"Your BMI is: {BMI}")
             if bmi < 18.5:
                 print("You are underweight.")
             elif 18.5 <= bmi < 24.9:
