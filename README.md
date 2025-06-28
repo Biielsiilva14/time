@@ -1,4 +1,5 @@
-# BMI Calculator - Calculate the Body Mass Index
+# BMI Calculator
+# Calculate the Body Mass Index
 
 This Python script calculates the Body Mass Index (BMI) based on the user's weight and height. It also provides a simple interpretation of the BMI value.
 
